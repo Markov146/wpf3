@@ -1,0 +1,103 @@
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\Styles\TopPanelBtnStyle.baml
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\App.baml
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\Styles\PlayMenuBtnStyle.baml
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Николай\OneDrive\Рабочий стол\C# Projects\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\Styles\PlayMenuBtnStyle.baml
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\Styles\TopPanelBtnStyle.baml
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\TagLibSharp.dll
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\TagLibSharp.pdb
+C:\Users\chern\Desktop\Audio\AudioPlayer\bin\Debug\TagLibSharp.xml
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\App.baml
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\chern\Desktop\Audio\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\TagLibSharp.dll
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\TagLibSharp.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\TagLibSharp.xml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\Styles\PlayMenuBtnStyle.baml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\Styles\TopPanelBtnStyle.baml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\App.baml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CopyComplete
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Николай\OneDrive\Рабочий стол\AudioPlayer\AudioPlayer\bin\Debug\Newtonsoft.Json.xml
